@@ -1,0 +1,20 @@
+discr_utils
+===========
+
+Helpers for discretization-related functionality.
+
+.. currentmodule:: odl.discr.discr_utils
+
+
+
+
+.. rubric:: Functions
+
+.. autosummary::
+   :toctree: generated/
+
+   ~odl.discr.discr_utils.linear_interpolator
+   ~odl.discr.discr_utils.nearest_interpolator
+   ~odl.discr.discr_utils.per_axis_interpolator
+   ~odl.discr.discr_utils.point_collocation
+
